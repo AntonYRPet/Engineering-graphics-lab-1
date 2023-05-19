@@ -1,0 +1,8 @@
+D:\2 курс 2 семестр\ИКГ\EG LAB-1\x64\Debug\EG LAB-1.vcxproj.CopyComplete
+D:\2 курс 2 семестр\ИКГ\EG LAB-1\x64\Debug\EG LAB-1.exe
+D:\2 курс 2 семестр\ИКГ\EG LAB-1\x64\Debug\freeglutd.dll
+D:\2 курс 2 семестр\ИКГ\EG LAB-1\x64\Debug\glew32d.dll
+C:\Users\petro\Downloads\EG LAB-1\x64\Debug\EG LAB-1.vcxproj.CopyComplete
+C:\Users\petro\Downloads\EG LAB-1\x64\Debug\EG LAB-1.exe
+C:\Users\petro\Downloads\EG LAB-1\x64\Debug\freeglutd.dll
+C:\Users\petro\Downloads\EG LAB-1\x64\Debug\glew32d.dll
